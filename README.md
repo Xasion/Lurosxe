@@ -11,5 +11,7 @@ This repository will host the website and terms and conditions of the discord bo
 
 Do x!help for commands!.
 
+Or use /xhelp for our commands!
+
 
 Commands will be listed below!.
